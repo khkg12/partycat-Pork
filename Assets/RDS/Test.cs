@@ -9,6 +9,7 @@ public class Test : MonoBehaviour
     {
         Debug.Log("TEST");
         transform.position = Vector3.zero;
+        Debug.Log("TTT");
     }
 
     // Update is called once per frame
